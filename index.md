@@ -15,3 +15,11 @@ $ git init
 ``` javascript 
 var myVar = "Привет, мир!";
 ```
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+[ ] - Включить страницы GitHub  - не работаит 
+- [ ] Расскажу о своем портфолио 
+- [ ] Представлю себя миру
